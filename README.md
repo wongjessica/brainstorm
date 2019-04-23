@@ -11,7 +11,7 @@ This is the repository where I'll brainstorm ideas for personal projects.
 | AutoRun | Script that automatically runs my GitHub code | Alternative to the command line | Incomplete |
 | --- | --- | --- | --- |
 
-| LeagueSite | Website that showcases my favorite champions from League of Legends | I love League of Legends | <a href="https://github.com/wongjessica/leaguesite" target="_blank"> Completed </a> | 
+| LeagueSite | Website that showcases my favorite champions from League of Legends | My passion towards the video game League of Legends | <a href="https://github.com/wongjessica/leaguesite" target="_blank"> Completed </a> | 
 | --- | --- | --- | --- |
 
 
