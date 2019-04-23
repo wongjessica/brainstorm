@@ -8,6 +8,9 @@ This is the repository where I'll brainstorm ideas for personal projects.
 | Alarminator | App that cycles through more than one song for an alarm | Growing an immunity to alarms | Incomplete |
 | --- | --- | --- | --- |
 
+| AlphabetReader | Script that helps alphabetize all the 'ideas' this README | Not having to manually alphabetize my ideas | Incomplete |
+| --- | --- | --- | --- |
+
 | AutoRun | Script that automatically runs my GitHub code | Alternative to the command line | Incomplete |
 | --- | --- | --- | --- |
 
